@@ -5,7 +5,7 @@ Personalization Theory final project
 
 After writing a simple collaborative filtering algorithms from scratch earlier in the course, we sought to implement a recommendation system at scale. The data we use is the Amazon electronics product data spanning May 1996-July 2014. We used PySpark to analyze the data and implemented three machine learning algorithms.
 
-Rating Data download link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Electronics.csv
+Rating Data download link: 
 
 This project was written in PySpark. The repository contains following files in the Code folder:
 
